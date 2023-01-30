@@ -1,6 +1,5 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Swift-5.5-ff69b4.svg" />
-    <img src="https://img.shields.io/github/repo-size/sougatoroy3/FlashCh4T?color=orange">
 </p>
 
 <h1>Flash Chat</h1>
