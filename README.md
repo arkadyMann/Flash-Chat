@@ -1,5 +1,4 @@
 <p align="center">
-    <img src="https://img.shields.io/badge/Author-sougatoroy3-ff69b4.svg" />
     <img src="https://img.shields.io/badge/Swift-5.5-ff69b4.svg" />
     <img src="https://img.shields.io/github/repo-size/sougatoroy3/FlashCh4T?color=orange">
     <img src="https://img.shields.io/github/stars/sougatoroy3/FlashCh4T?style=social">
